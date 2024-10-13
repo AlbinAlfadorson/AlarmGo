@@ -13,9 +13,9 @@
 	1) Главная директория - alarm-in-Go
 	        |                  |
 	        Каталоги:          Файлы:
-	        0.gui/gui.go       1.main.go
-	        1.alarm/alarm.go   2.go mod
-	        2.sound/sound.go
-	        3.desktop/desktop/go
-	        4.assets/signal.mp3
-	        5.git(Git.)
+	        0 - gui/gui.go       1 - main.go
+	        1 - alarm/alarm.go   2 - go mod
+	        2 - sound/sound.go
+	        3 - desktop/desktop/go
+	        4 - assets/signal.mp3
+	        5 - git(Git.)
