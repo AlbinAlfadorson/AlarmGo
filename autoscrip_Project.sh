@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"src/GUI"
 	"src/Alarm"
-	"desktop"
+	"src/desktop"
 )
 
 
